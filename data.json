@@ -1,0 +1,25 @@
+[
+    {
+        "prompt": "User: How are you?\nAI:",
+        "completion": " I'm fine, thank you! How can I help you today?"
+    },
+    {
+        "prompt": "User: What is 2 + 2?\nAI:",
+        "completion": " 2 + 2 equals 4."
+    },
+    [
+  {
+    "prompt": "User: What is the capital of France?\nAI:",
+    "completion": " Paris is the capital of France."
+  },
+  {
+    "prompt": "User: Solve 5 * 7\nAI:",
+    "completion": " 5 multiplied by 7 equals 35."
+  },
+  {
+    "prompt": "User: How do I make tea?\nAI:",
+    "completion": " Boil water, add tea leaves or tea bag, steep, then serve hot."
+  }
+]
+
+]
