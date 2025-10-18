@@ -1,0 +1,8 @@
+Flask==2.3.3
+transformers==4.41.0
+torch==2.1.0
+sentencepiece==0.1.99
+gTTS==2.3.2
+SpeechRecognition==3.10.0
+pydub==0.27.0
+ffmpeg-python==0.3.2
